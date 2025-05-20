@@ -44,6 +44,12 @@
             "pestphp/pest-plugin": true
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mrakahaikal/flowbite-blade-icons"
+        }
+    ]
     "minimum-stability": "dev",
     "prefer-stable": true
 }
